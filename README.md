@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning algorithm and flutter.
+- 🌱 I’m currently learning flutter and algorithm.
 
 <!--
 **jja08111/jja08111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
