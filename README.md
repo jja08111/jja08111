@@ -9,7 +9,7 @@
 - #### Bedtime
 ![app_preview1](https://play-lh.googleusercontent.com/Kw_cAcsPbim_0Kw0Q_DmNLATKnja6HzaDJ_bNHT7bBKdm4SnGGSGFfFyaTky86x-7kw=w720-h310-rw)
 ![app_preview2](https://play-lh.googleusercontent.com/3leFwdkkyufIO3-EJSmmCM3Q-kj-7eoQwE6TwFXlatpgwlcpSHBJUyrlsQZbcMUhLg=w720-h310-rw)  
-😄 **Bedtime** is my first app and you can download it from [here](https://play.google.com/store/apps/details?id=io.github.jja08111.good_night_app). 
+😄 **Bedtime** is my first app and you can download it from [play store](https://play.google.com/store/apps/details?id=io.github.jja08111.good_night_app). 
 
 <!--
 **jja08111/jja08111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
