@@ -6,9 +6,8 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jja08111&count_private=true&show_icons=true&layout=default)
 
 ### My app 
-- #### Bedtime
-![app_preview1](https://play-lh.googleusercontent.com/Kw_cAcsPbim_0Kw0Q_DmNLATKnja6HzaDJ_bNHT7bBKdm4SnGGSGFfFyaTky86x-7kw=w720-h310-rw)
-![app_preview2](https://play-lh.googleusercontent.com/3leFwdkkyufIO3-EJSmmCM3Q-kj-7eoQwE6TwFXlatpgwlcpSHBJUyrlsQZbcMUhLg=w720-h310-rw)  
+<img src="https://user-images.githubusercontent.com/57604817/117239983-caf8c700-ae6a-11eb-88ec-f456b582d640.png" width="496">
+
 😄 **Bedtime** is my first app and you can download it from [play store](https://play.google.com/store/apps/details?id=io.github.jja08111.good_night_app). 
 
 <!--
