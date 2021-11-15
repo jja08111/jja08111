@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning the Flutter.
 
 
-### Stats about me
+### Status about me
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jja08111&count_private=true&&theme=nightowl&title_color=e2be9d&icon_color=66dbce&text_color=cfcfcf&bg_color=242424&show_icons=true)
 
 ### My app 
