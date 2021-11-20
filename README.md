@@ -8,7 +8,7 @@
 ### My app 
 <img src="https://user-images.githubusercontent.com/57604817/117239983-caf8c700-ae6a-11eb-88ec-f456b582d640.png" width="496">
 
-😄 **Bedtime** is my first app and you can download it from the [Play store](https://play.google.com/store/apps/details?id=io.github.jja08111.good_night_app). 
+😄 The **Bedtime** is my first app and you can download it from the [Play store](https://play.google.com/store/apps/details?id=io.github.jja08111.good_night_app). 
 
 <!--
 **jja08111/jja08111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
