@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning the Flutter.
+- 🌱 I’m currently learning Flutter.
 
 
 ### Status about me
