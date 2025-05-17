@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m an Android Developer at Samsung Electronics.
+- 🌱 I’m a Software Engineer at Samsung Electronics.
 
 
 ### Status about me
